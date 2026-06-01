@@ -15,3 +15,6 @@ I have developed a SQL query to calculate "Net Profit Estimates" by applying a 2
 
 ### Future Vision
 This project is the first phase of digital transformation, with future plans for automated dashboards.
+### Project Results & Validation
+![SQL Results](### Project Results & Validation
+![SQL Results](images/Screenshot_٢٠٢٦-٠٦-٠١-٠٥-٤٦-٥٦-٨٤٥_org.mozilla.firefox.jpg)/Screenshot_٢٠٢٦-٠٦-٠١-٠٥-٤٦-٥٦-٨٤٥_org.mozilla.firefox.jpg)
