@@ -39,3 +39,5 @@ INSERT INTO StarNet_Sales_Data VALUES
         ELSE Price_USD 
     END AS Net_Profit_Estimate
 FROM StarNet_Sales_Data;
+### Project Results & Validation
+![SQL Results](images/Screenshot_٢٠٢٦-٠٦-٠١-٠٥-٤٦-٥٦-٨٤٥_org.mozilla.firefox.jpg)
